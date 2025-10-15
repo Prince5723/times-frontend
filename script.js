@@ -1,7 +1,7 @@
 // Configuration
 const API_CONFIG = {
-    storiesUrl: 'http://localhost:3000/getTimeStories',
-    imagesUrl: 'http://localhost:3000/getImages',
+    storiesUrl: 'https://times-backend-2fhb.onrender.com/getTimeStories',
+    imagesUrl: 'https://times-backend-2fhb.onrender.com/getImages',
     fallbackImage: 'https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&h=800&fit=crop'
 };
 
